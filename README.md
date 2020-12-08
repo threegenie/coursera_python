@@ -3,6 +3,6 @@ from University of Michigan
 
 solution for programming question using python
 
-lecture link below
+lecture link 
 https://www.coursera.org/learn/python
 https://www.coursera.org/learn/python-data
